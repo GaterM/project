@@ -1,0 +1,79 @@
+-------企业管理--------
+breefing.html -----> 种养殖企业
+manufacturing.html ---->生产企业
+schoolcanteen.html ----->学校单位食堂
+circulating.html ------>流通企业
+catering.html ----->餐饮企业
+threesmall.html----->三小企业
+otherbusiness.html----->其他企业
+
+
+------产品管理-----
+induspro.html ----->工业产品
+housepro.html----->农产品
+foodpro.html ------>食品
+cospro.html ----->化妆品
+
+
+------防伪溯源监管-----
+prosts.html -----> 防伪产品统计
+sdypro.html -----> 假冒伪劣产品统计
+reltmdtshow.html -----> 实时数据展示
+reltmdtshow-look.html ----->实时数据展示查看
+
+
+------执法检查-------
+planaudit.html ----->检查计划
+enforcement.html----->移动执法
+checkresult.html ----->检查结果
+expirationnotice.html ---->证件到期提醒
+
+
+------企业自查-----
+comprePlan.html ----->自查计划
+compreInfo.html ------>自查信息
+
+
+-----社会监督----
+eventsreport.html ----->事件举报
+productreport.html----->产品举报
+complaint.html ----->投诉处理
+
+
+-----黑名单-----
+blacklist.html ----->黑名单
+
+
+-------风险预警--------
+risk_1.html ----->风险事件分布
+risk_2.html ------>假冒伪劣事件分布
+risk_3.html ----->预警信息分布
+
+-----监管业务-----
+self_inspection.html ----->自查模板
+regulation.html ----->监管模板
+type.html ----->执法类型
+
+
+-----用户信息-----
+info.html ----->个人信息修改
+pd.html ----->密码修改
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

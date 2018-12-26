@@ -69,7 +69,7 @@ td label:hover{
 td input+span{
   height: 30px;
   width: 30px;
-  background: url("/static/images/check_false.png");
+  background: url("../image/check_false.png");
   background-size:100% ;
   display: inline-block;
   position: absolute;
@@ -80,7 +80,7 @@ td input+span{
   right: 0px;
 }
 input:checked+span{
-  background: url("/static/images/check_true.png");
+  background: url("../image/check_true.png");
   background-size: 100%;
 }
 table>a{
