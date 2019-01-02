@@ -1,0 +1,115 @@
+* {
+    font-family: 微软雅黑;
+}
+
+.content {
+    padding: 10px;
+}
+
+.content>div {
+    width: 100%;
+}
+
+.content>div:nth-child(1) {
+    border-top: 2px solid #4db6dd;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 5px;
+}
+
+.content>div:nth-child(1) li {
+    font-size: 12px;
+    float: left;
+    margin-right: 10px;
+    background: deeppink;
+    color: white;
+    width: 19%;
+    text-align: center;
+    border-radius: 2px;
+    outline: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.content ul {
+    padding-top: 5px;
+}
+
+.content ul li:nth-child(1) {
+    background: #ed5858;
+}
+
+.content ul li:nth-child(2) {
+    background: #ded07e
+}
+
+.content ul li:nth-child(3) {
+    background: #bc72e4
+}
+
+.content ul li:nth-child(4) {
+    background: #16a0d3
+}
+
+.content ul li:nth-child(5) {
+    background: #16a0d3
+}
+
+.content>div:nth-child(2) {
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.content>div:nth-child(2)>div {
+    border: 2px solid #f5f5f5;
+    border-top: 2px solid #8bc5f0;
+    width: 48%;
+}
+
+.content>div:nth-child(2)>div div {
+    height: 200px;
+    ;
+}
+
+.content>div:nth-child(2)>div h3 {
+    border-bottom: 2px solid #f5f5f5;
+}
+
+.left {
+    float: left;
+
+}
+
+.right {
+    float: right;
+}
+
+.content>div:last-child {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 2px solid #f5c892;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #f5f5f5;
+
+}
+
+th, td {
+    border: 1px solid #f5f5f5;
+    text-align: center;
+}
+td{
+    font-size: 12px;
+    color: #87928d;
+}
+tr {
+    height: 30px;
+}
+tbody tr:not(:first-child) td:first-child{
+    text-align: left;
+}
+tbody tr:nth-child(even){
+    background: #f5f5f5;
+}
